@@ -122,12 +122,3 @@ $data = $query->fetchAll(PDO::FETCH_ASSOC);
 </table>
 </body>
 </html>
- 
-
-
-
-
-
-
-
-
